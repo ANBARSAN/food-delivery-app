@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ANBARSAN/food-delivery-app/static/css/main.9dbc08a6.css",
+    "main.js": "/ANBARSAN/food-delivery-app/static/js/main.3b80a186.js",
+    "static/media/foodSample.avif": "/ANBARSAN/food-delivery-app/static/media/foodSample.84dd03a26b44fbf3f6a3.avif",
+    "index.html": "/ANBARSAN/food-delivery-app/index.html",
+    "main.9dbc08a6.css.map": "/ANBARSAN/food-delivery-app/static/css/main.9dbc08a6.css.map",
+    "main.3b80a186.js.map": "/ANBARSAN/food-delivery-app/static/js/main.3b80a186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dbc08a6.css",
+    "static/js/main.3b80a186.js"
+  ]
+}
