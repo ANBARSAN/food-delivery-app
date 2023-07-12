@@ -15,6 +15,10 @@ export const appRouter = createBrowserRouter([
     element: <Home />,
   },
   {
+    path: "/food-delivery-app/",
+    element: <Home />
+  },
+  {
     path: "login",
     element: <Login />,
   },
